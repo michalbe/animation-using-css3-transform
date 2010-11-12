@@ -1,0 +1,4 @@
+canvas 
+    5pinguins 13-22fps
+    50ping 15-23fps
+    100ping 10-16
